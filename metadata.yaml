@@ -1,16 +1,21 @@
 _repo: Dell-arte-dei-giardini-inglesi_56482
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Levati, Giuseppe
     gutenberg_agent_id: '48873'
     url: http://www.gutenberg.org/2009/agents/48873
+covers:
+- cover_type: archival
+  image_path: 56482-h/images/cover.jpg
 creator:
   author:
     agent_name: Silva, Ercole
     gutenberg_agent_id: '48872'
     url: http://www.gutenberg.org/2009/agents/48872
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56482#Dell-arte-dei-giardini-inglesi
 gutenberg_bookshelf: IT Botanica
 gutenberg_issued: '2018-02-01'
 gutenberg_type: Text
